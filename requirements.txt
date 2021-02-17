@@ -1,0 +1,3 @@
+git+https://github.com/abhinavsingh/proxy.py.git@develop
+flask
+pyngrok
